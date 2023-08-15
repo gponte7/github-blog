@@ -1,7 +1,6 @@
 import { useParams } from 'react-router-dom'
 import { PostInfo } from '../../components/PostInfo'
-import { Container } from '../Home/styles'
-import { Content } from './styles'
+import { Container, Content } from './styles'
 import axios from 'axios'
 import { useEffect, useState } from 'react'
 
