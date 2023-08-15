@@ -34,7 +34,7 @@ A ReactJS project created with Vite.
 
 - [Home](#home)
 - [Search](#search)
-- [Opening Post](#opening)
+- [Opening Post](#opening-post)
 ### Home
 
 ![Home](https://raw.githubusercontent.com/gponte7/github-blog/main/src/assets/Home.gif)
@@ -43,7 +43,7 @@ A ReactJS project created with Vite.
 ![Search](https://raw.githubusercontent.com/gponte7/github-blog/main/src/assets/Search.gif)
 ### Opening Post
 
-![Opening](https://raw.githubusercontent.com/gponte7/github-blog/main/src/assets/OpeningPost.gif)
+![Opening-post](https://raw.githubusercontent.com/gponte7/github-blog/main/src/assets/OpeningPost.gif)
 
 
 ## Contact
