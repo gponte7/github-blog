@@ -17,7 +17,7 @@
 
 ## About the Project
 
-A blog that joins all issues of a repository from a github account.
+A blog that joins all repository's issues from a github account.
 ## Backend
 
 Github Blog uses the Github API to get the informations from the account and from the repository with Axios. 
