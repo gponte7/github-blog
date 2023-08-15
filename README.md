@@ -43,7 +43,7 @@ A ReactJS project created with Vite.
 ![Search](https://raw.githubusercontent.com/gponte7/github-blog/main/src/assets/Search.gif)
 ### Opening Post
 
-![Opening Post](https://raw.githubusercontent.com/gponte7/github-blog/main/src/assets/OpeningPost.gif)
+![Opening](https://raw.githubusercontent.com/gponte7/github-blog/main/src/assets/OpeningPost.gif)
 
 
 ## Contact
